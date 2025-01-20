@@ -4,17 +4,17 @@
 - [Model link](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj?origin=share)
 
 ## Packages used in this project
-express
-jsonwebtoken
-bcrypt 
-nodemon
-cloudinary
-mongoose
-mongoose-aggregate-paginate-v2
-multer
-dotenv
-cors
-cookie-parser
+express, 
+jsonwebtoken, 
+bcrypt,  
+nodemon, 
+cloudinary, 
+mongoose, 
+mongoose-aggregate-paginate-v2, 
+multer, 
+dotenv, 
+cors, 
+cookie-parser, 
 prettier
 
 # Summary of this project
