@@ -4,6 +4,12 @@ A powerful, scalable backend for a YouTube-style video hosting platform built wi
 
 ---
 
+## 🔗 Live Model Link
+
+- [Eraser Diagram](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj?origin=share)
+
+---
+
 ## 🚀 Features
 
 ✅ Full user authentication and authorization  
